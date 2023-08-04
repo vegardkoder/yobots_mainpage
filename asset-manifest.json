@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yobots_mainpage/static/css/main.6bc7ec41.css",
+    "main.js": "/yobots_mainpage/static/js/main.edd5d878.js",
+    "static/js/787.72e6b618.chunk.js": "/yobots_mainpage/static/js/787.72e6b618.chunk.js",
+    "static/media/main_page1.png": "/yobots_mainpage/static/media/main_page1.3091b2e67941cb47f7b4.png",
+    "static/media/main_page_dark.png": "/yobots_mainpage/static/media/main_page_dark.2043a88b4f62dec386d3.png",
+    "static/media/vision_board.png": "/yobots_mainpage/static/media/vision_board.5c2488118beb0ad8a77a.png",
+    "static/media/lightbulb.png": "/yobots_mainpage/static/media/lightbulb.aa2e6dd6891b22ab0ef9.png",
+    "static/media/yobots_logo.png": "/yobots_mainpage/static/media/yobots_logo.d4fda543260661382a59.png",
+    "static/media/music_switch1.png": "/yobots_mainpage/static/media/music_switch1.eef0d270b3781d38dfb7.png",
+    "static/media/logo.svg": "/yobots_mainpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yobots_mainpage/index.html",
+    "main.6bc7ec41.css.map": "/yobots_mainpage/static/css/main.6bc7ec41.css.map",
+    "main.edd5d878.js.map": "/yobots_mainpage/static/js/main.edd5d878.js.map",
+    "787.72e6b618.chunk.js.map": "/yobots_mainpage/static/js/787.72e6b618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc7ec41.css",
+    "static/js/main.edd5d878.js"
+  ]
+}
